@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Otp</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="generate_otp">Generate OTP</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="verify_sign_in">Verify and Sign In</string>
+    <string name="sign_out">sign out</string>
+    <string name="signed_out" />
+    <string name="status_sign_in_failed" />
+</resources>

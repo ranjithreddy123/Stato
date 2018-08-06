@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="conversation_image" type="id" />
+    <item name="cardview_selected_contacts" type="id" />
+    <item name="selected_list" type="id" />
+</resources>
